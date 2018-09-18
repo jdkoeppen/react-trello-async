@@ -14,7 +14,7 @@ export default class Board extends React.Component {
             lists: [],
             error: null,
             loading: false
-        };
+        }; 
     }
 
     componentDidMount() {
